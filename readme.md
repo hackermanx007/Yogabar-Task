@@ -33,12 +33,12 @@ Competitior's Product: [Kellogg's Muesli with 21% Fruit and Nut Pouch, 500 g](ht
 ---
 ## Files:
 
-- **Web Scraping Script :** scraping_script.js
+- **Web Scraping Script :** [scraping_script.js](https://github.com/hackermanx007/Yogabar-Task/blob/master/scraping_script.js)
 
 - **csv files (output of script) :** 
 
-    - [Our Product]() scraped data:  yogabar.csv
-    - [Competitior Product]() scraped data: kellogs.csv
+    - [Our Product]() scraped data:  [yogabar.csv](https://github.com/hackermanx007/Yogabar-Task/blob/master/yogabar.csv)
+    - [Competitior Product]() scraped data: [kellogs.csv](https://github.com/hackermanx007/Yogabar-Task/blob/master/kellogs.csv)
 
 - **Powerpoint Presentation :** TaskB_Analysis.ppt
 
