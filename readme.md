@@ -27,7 +27,7 @@ Competitior's Product: [Kellogg's Muesli with 21% Fruit and Nut Pouch, 500 g](ht
 
 3. Then I had visualised the data using Excel
 
-4. And finally it put in the form of ppt
+4. And finally, put it in the form of ppt
 
 
 ---
