@@ -40,5 +40,5 @@ Competitior's Product: [Kellogg's Muesli with 21% Fruit and Nut Pouch, 500 g](ht
     - [Our Product]() scraped data:  [yogabar.csv](https://github.com/hackermanx007/Yogabar-Task/blob/master/yogabar.csv)
     - [Competitior Product]() scraped data: [kellogs.csv](https://github.com/hackermanx007/Yogabar-Task/blob/master/kellogs.csv)
 
-- **Powerpoint Presentation :** TaskB_Analysis.ppt
+- **Powerpoint Presentation :** [INSIGHTS on Data Scraped.pptx](https://github.com/hackermanx007/Yogabar-Task-B/blob/master/INSIGHTS%20on%20Data%20Scraped.pptx)
 
