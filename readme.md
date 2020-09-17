@@ -21,13 +21,13 @@ Competitior's Product: [Kellogg's Muesli with 21% Fruit and Nut Pouch, 500 g](ht
 
 ## Steps:
 
-1. Firstly, I've scraped all the reviews of the products that were available on Amazon site via Selenium with Nodejs. 846 reviews were sraped for yogabar while 480 for our competitor.
+1. Firstly, I've scraped all the reviews of the products that were available on Amazon site via Selenium with Nodejs. 845 reviews were scraped for yogabar while 480 for our competitor.
 
-2. Then I've further analysed the data of our yogabar product (846 reviews scraped) and that of our competitior's (480 reviews) 
+2. Then I've further analysed the data of our yogabar product (845 reviews scraped) and that of our competitior's (480 reviews) 
 
-3. Then I had visiualised the data using Excel
+3. Then I had visualised the data using Excel
 
-4. And finally put in the form of ppt
+4. And finally it put in the form of ppt
 
 
 ---
